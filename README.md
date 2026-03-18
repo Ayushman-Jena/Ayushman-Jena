@@ -5,11 +5,11 @@ I enjoy building complete systems — from mathematical modeling and control des
 I prefer hands-on lab work, rapid prototyping, and solving deep engineering problems 💪
 -->
 
-## Research Fellow / Engineer  
+## Junior Research Fellow 
 
-- **Advanced Research:** Currently working as a Junior Research Fellow at NIT Trichy in Instrumentation & Control, focusing on **Focused Ultrasound (HIFU)** systems, including nonlinear acoustic modeling, transducer design, and experimental validation.
-- **Control Systems & Robotics:** Experience in **robotic system modeling and advanced control design**, including **Model Predictive Control (MPC/NMPC)**, **LQR**, and **MRAC**, applied to dynamic and nonlinear systems.
-- **Interdisciplinary Work:** Combining **electronics, control theory, and physics-based modeling** — spanning FEM simulations, embedded systems, and high-voltage analog design.
+- **Advanced Research:** Currently working as a Junior Research Fellow at NIT Trichy in Instrumentation & Control, focusing on **Focused Ultrasound** systems, including nonlinear acoustic modeling, transducer design, and experimental validation.
+- **Control Systems & Robotics:** Experience in **robotic system modeling and advanced control design**.
+- **Interdisciplinary Work:** Combining **electronics, control theory, and physics-based modeling** — FEM simulations, embedded systems, and a little bit of high-voltage power amplifier design.
 - **Hands-on Engineering:** Building complete experimental pipelines including motion control systems, hydrophone-based acoustic measurements, and automated data acquisition.
 
 ---
@@ -22,9 +22,10 @@ Robotics & Autonomous Systems, Nonlinear Control, Model Predictive Control (MPC/
 
 ## Professional Experience
 
-- **Junior Research Fellow**: NIT Trichy, India (Oct 2024 – Present)  
-- **Summer Intern**: DRDO, India  
-- **Student Researcher / Developer**: Veer Surendra Sai University of Technology (VSSUT), Burla  
+- **Junior Research Fellow**: NIT Trichy, India (Oct 2024 – Present)
+- **Electrical Engineer**: SMEL Integrated Steel Plant Odisha (Jun - Sep 2024)  
+- **Summer Intern**: Integrated Test Range DRDO, India  
+- **Student Researcher **: Veer Surendra Sai Space Innovation Center, VSSUT Burla By ISRO.  
 
 ---
 
@@ -55,7 +56,7 @@ Robotics & Autonomous Systems, Nonlinear Control, Model Predictive Control (MPC/
 
 - **Programming:** Python, MATLAB, Embedded C  
 - **Control & Robotics:** MPC, NMPC, LQR, MRAC, System Modeling & Simulation  
-- **Hardware & Embedded:** Arduino, STM32 (learning), Sensors & DAQ Systems  
+- **Hardware & Embedded:** Arduino, STM32, ESP32 Sensors & DAQ Systems  
 - **Simulation & Modeling:** k-Wave, FEM, Numerical Methods  
 - **Electronics:** Analog Circuit Design, PCB Design (KiCad), Power Electronics  
 - **Systems:** Motion Control, Signal Processing, Data Acquisition  
@@ -64,6 +65,7 @@ Robotics & Autonomous Systems, Nonlinear Control, Model Predictive Control (MPC/
 
 ## Achievements
 
+- 🏆 **Best Paper Presentation** for paper titled "Desgign and Optimization of BEzier Curve for Nozzle COntour Design" at ICRAMERD 2025
 - 🏆 **2nd Place – ISRO World Space Week 2023** (Innovative Design)  
 - 🚀 Finalist – **CANSAT India Competition** (ASI & INSPACe)  
 - 🛰️ Represented VSSUT at national-level space-tech events  
