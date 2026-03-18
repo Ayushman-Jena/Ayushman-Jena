@@ -7,14 +7,11 @@ Recently I have been working on Robotic systems for ultrasound field scanning, M
 
 ## Junior Researc Fellow 
 
-- **Advanced Academic Research:** Served as a Postdoctoral Researcher at Heriot-Watt University, Scotland, specializing in Underwater Robotics. Developed multi-agent motion control systems and neuro-symbolic **Agentic AI** architectures (UROSA, AURA) to enable autonomous reasoning in underwater environments.
-- **Extensive R&D Experience:** Specializing in robotics motion control, manipulator software development, and industrial applications for both onshore and offshore environments.
-- **Passionate:** Enjoy working on hands-on projects with team-oriented environments.
 
 
 ## Research Interests
 
-Autonomy, multi-agent systems, reasoning, robotics, optimization, and computational neuroscience.
+
 
 ## Professional Experience
 
@@ -24,8 +21,7 @@ Autonomy, multi-agent systems, reasoning, robotics, optimization, and computatio
 
 ## Tools and Technologies
 
-- **Programming and Platforms:** C++, Python,   
-- **Simulations and Frameworks:** [StoneFish](https://stonefish.readthedocs.io/en/latest/), [GazeboSim](https://gazebosim.org/home), [MoveIt2](https://moveit.picknik.ai/main/index.html), [Matlab](https://se.mathworks.com/products/matlab.html), [Pinocchio](https://github.com/stack-of-tasks/pinocchio), [Crocoddyl](https://github.com/loco-3d/crocoddyl), [ArduPilot](https://ardupilot.org/)
+
 
 <!--
 ## Passions
