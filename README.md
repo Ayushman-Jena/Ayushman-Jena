@@ -16,7 +16,7 @@ Recently I have been working on Robotic systems for ultrasound field scanning, M
 ## Professional Experience
 
 - **Junior Research Fellow**: NIT Trichy (DRDO Funded Project), INDIA, (from Oct 2024)
-- **Electrical Engineer**: SMEL Integrated Steel Plant, Norway, (June 2024 - Sep 2024)
+- **Electrical Engineer**: SMEL Integrated Steel Plant, (June 2024 - Sep 2024)
 - **Research Trainee**: Internship @ DRDO ITR Chandipur, (May - June 2023)
 
 ## Tools and Technologies
