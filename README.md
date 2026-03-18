@@ -1,64 +1,81 @@
 <!--
-## Hi, This is Ayushman! 👋
-I am a Junior Researcher pursuing MS by Research at Instrumentation and Control Engineering at NIT Trchy, funded by DRDO. <br>
-I have worked on the small scale sounding rockets developing on board computers, avionics sub-systems, recovery modules and control systems for CUBESATs and CANSATS. <br>
-Recently I have been working on Robotic systems for ultrasound field scanning, Machine learning approaches to control engineering 💪 . <br>
+## Hi, I am Ayushman! 👋
+I am an Electrical Engineer and Researcher working at the intersection of embedded systems, control systems, and focused ultrasound. <br>
+I enjoy building complete systems — from mathematical modeling and control design to real-world experimental validation. <br>
+I prefer hands-on lab work, rapid prototyping, and solving deep engineering problems 💪
 -->
 
-## Junior Researc Fellow 
+## Research Fellow / Engineer  
 
+- **Advanced Research:** Currently working as a Junior Research Fellow at NIT Trichy in Instrumentation & Control, focusing on **Focused Ultrasound (HIFU)** systems, including nonlinear acoustic modeling, transducer design, and experimental validation.
+- **Control Systems & Robotics:** Experience in **robotic system modeling and advanced control design**, including **Model Predictive Control (MPC/NMPC)**, **LQR**, and **MRAC**, applied to dynamic and nonlinear systems.
+- **Interdisciplinary Work:** Combining **electronics, control theory, and physics-based modeling** — spanning FEM simulations, embedded systems, and high-voltage analog design.
+- **Hands-on Engineering:** Building complete experimental pipelines including motion control systems, hydrophone-based acoustic measurements, and automated data acquisition.
 
+---
 
 ## Research Interests
 
+Robotics & Autonomous Systems, Nonlinear Control, Model Predictive Control (MPC/NMPC), Adaptive Control (MRAC), Optimal Control (LQR), Piezoelectric Transducers Design, Embedded Systems, and Scientific Computing.
 
+---
 
 ## Professional Experience
 
-- **Junior Research Fellow**: NIT Trichy (DRDO Funded Project), INDIA, (from Oct 2024)
-- **Electrical Engineer**: SMEL Integrated Steel Plant, (June 2024 - Sep 2024)
-- **Research Trainee**: Internship @ DRDO ITR Chandipur, (May - June 2023)
+- **Junior Research Fellow**: NIT Trichy, India (Oct 2024 – Present)  
+- **Summer Intern**: DRDO, India  
+- **Student Researcher / Developer**: Veer Surendra Sai University of Technology (VSSUT), Burla  
+
+---
+
+## Key Projects
+
+- **🤖 Robotic System Modeling & Control**  
+  Developed and simulated control strategies for dynamic systems including:  
+  - **LQR-based optimal control** for state stabilization  
+  - **Model Predictive Control (MPC/NMPC)** for constrained and nonlinear systems  
+  - **MRAC (Model Reference Adaptive Control)** for adaptive tracking in uncertain environments  
+
+- **🔬 Focused Ultrasound Characterization System**  
+  Developed a **5-DOF automated scanning system** using Arduino + stepper drivers for hydrophone-based pressure mapping and focal field analysis.
+
+- **📡 Piezoelectric RF Energy Harvesting CubeSat**  
+  Designed a novel **piezo-material-based energy harvesting system** for space applications.  
+  🏆 Secured **2nd Place at ISRO World Space Week (2023)**
+
+- **🚀 VSLV 4.0 – “Chroma-Krut” Rocket**  
+  Contributed to student-led sounding rocket development at VSSUT Space Innovation Center.
+
+- **⚡ High-Voltage Ultrasound Driver (OPA455)**  
+  Designing and optimizing analog front-end circuits for driving **capacitive piezo transducers (~500 kHz)**.
+
+---
 
 ## Tools and Technologies
 
+- **Programming:** Python, MATLAB, Embedded C  
+- **Control & Robotics:** MPC, NMPC, LQR, MRAC, System Modeling & Simulation  
+- **Hardware & Embedded:** Arduino, STM32 (learning), Sensors & DAQ Systems  
+- **Simulation & Modeling:** k-Wave, FEM, Numerical Methods  
+- **Electronics:** Analog Circuit Design, PCB Design (KiCad), Power Electronics  
+- **Systems:** Motion Control, Signal Processing, Data Acquisition  
 
+---
+
+## Achievements
+
+- 🏆 **2nd Place – ISRO World Space Week 2023** (Innovative Design)  
+- 🚀 Finalist – **CANSAT India Competition** (ASI & INSPACe)  
+- 🛰️ Represented VSSUT at national-level space-tech events  
+
+---
 
 <!--
 ## Passions
 
-- **🤖 Robotics** (motion control and robot dynamics)  
-- **🚴 Cycling**
-- **🐧 Linux**
--->
-<!--
-
-| Position                                     | Company                         | Location        | Duration               |
-|---------------------------------------------|---------------------------------|-----------------|-----------------------|
-| Postdoctoral Researcher in Underwater Robotics | Heriot-Watt University          | Edinburgh, UK   | Sep 2023 - Present    |
-| Senior Software Engineer - Robotics            | YASKAWA Europe                 | Germany         | Mar 2023 - Sep 2023   |
-| Founder                                        | Buchholz Robotics               | Norway          | Jul 2020 - Sep 2023   |
-| Senior Robotics Engineer                       | Zivid                           | Norway          | Mar 2022 - Sep 2022   |
-| Principal Software Engineer                    | Canrig Robotic Technologies    | Norway          | Jan 2018 - Jul 2020   |
-| R&D Senior Engineer - Motion Control           | ABB Robotics                   | Norway          | Mar 2014 - Dec 2017   |
-| Senior Engineer - Subsea Control Systems       | Statoil                        | Norway          | Mar 2012 - Feb 2014   |
-| R&D Senior Engineer - Ship Electrical Power Systems | Rolls-Royce                   | Norway          | Jan 2011 - Feb 2012   |
-| Senior Engineer - Subsea Control Systems    | General Electric               | Norway          | Apr 2008 - Dec 2010   |
-| Electrical Engineer (Shipyard)              | Rysjedal Elektro AS            | Norway          | Apr 2006 - Dec 2007   |
-
--->
-
-
-<!--
-**markusbuchholz/markusbuchholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **🤖 Robotics & Control Systems**
+- **🔊 Ultrasound & Wave Physics**
+- **🔧 Hardware Prototyping**
+- **📡 Space Technology**
+- **🐧 Linux & Open Source**
 -->
