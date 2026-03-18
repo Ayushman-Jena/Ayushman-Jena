@@ -25,7 +25,7 @@ Robotics & Autonomous Systems, Nonlinear Control, Model Predictive Control (MPC/
 - **Junior Research Fellow**: NIT Trichy, India (Oct 2024 – Present)
 - **Electrical Engineer**: SMEL Integrated Steel Plant Odisha (Jun - Sep 2024)  
 - **Summer Intern**: Integrated Test Range DRDO, India  
-- **Student Researcher **: Veer Surendra Sai Space Innovation Center, VSSUT Burla By ISRO.  
+- **Student Researcher**: Veer Surendra Sai Space Innovation Center, VSSUT Burla By ISRO.  
 
 ---
 
