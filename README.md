@@ -48,7 +48,7 @@ Robotics & Autonomous Systems, Nonlinear Control, Model Predictive Control (MPC/
   Contributed to student-led sounding rocket development at VSSUT Space Innovation Center.
 
 - **⚡ High-Voltage Ultrasound Driver (OPA455)**  
-  Designing and optimizing analog front-end circuits for driving **capacitive piezo transducers (~500 kHz)**.
+  Designing analog power amplifier and preamplifier circuits for driving ** piezo transducers (~500 kHz) and Hydrophones**.
 
 ---
 
