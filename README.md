@@ -54,18 +54,19 @@ Robotics & Autonomous Systems, Nonlinear Control, Model Predictive Control (MPC/
 
 ## Tools and Technologies
 
-- **Programming:** Python, MATLAB, Embedded C  
-- **Control & Robotics:** MPC, NMPC, LQR, MRAC, System Modeling & Simulation  
-- **Hardware & Embedded:** Arduino, STM32, ESP32 Sensors & DAQ Systems  
-- **Simulation & Modeling:** k-Wave, FEM, Numerical Methods  
-- **Electronics:** Analog Circuit Design, PCB Design (KiCad), Power Electronics  
-- **Systems:** Motion Control, Signal Processing, Data Acquisition  
+-**Software Tools:** MATLAB, VS Code, LTSpice, KiCAD, Solidworks, MCU IDEs, COMSOL Multiphysics, LINUX, ROS 2
+- **Programming:** Python, MATLAB, C/C++, Fundamentals of Embedded C   
+- **Control & Robotics:** MPC, NMPC, LQR, MRAC, System Modeling & Simulation, Robotic Perception, Computer Vision   
+- **Hardware & Embedded:** Arduino, STM32, ESP32, Raspberry PI, Sensors & DAQ Systems  
+- **Simulation & Modeling:**  Mechanical Design, FEM/FDM/FVM, Numerical Methods, Dynamic Scientific Programming  
+- **Electronics:** Analog Circuit Design, PCB Design, Power Electronics  
+- **Systems:** Motion Control, Signal Processing, Data Acquisition,   
 
 ---
 
 ## Achievements
 
-- 🏆 **Best Paper Presentation** for paper titled "Desgign and Optimization of BEzier Curve for Nozzle COntour Design" at ICRAMERD 2025
+- 🏆 **Best Paper Presentation** for paper titled "Design and Optimization of Bezier Curve for Nozzle Contour Design" at ICRAMERD 2025
 - 🏆 **2nd Place – ISRO World Space Week 2023** (Innovative Design)  
 - 🚀 Finalist – **CANSAT India Competition** (ASI & INSPACe)  
 - 🛰️ Represented VSSUT at national-level space-tech events  
